@@ -41,4 +41,4 @@ http.createServer(onRequest).listen(port);
 
 console.log(`Listening on 127.0.0.1: ${port}`);
 
-//Making a change here to test pushing and automatic CircleCI testing
+// Making a change here to test pushing and automatic CircleCI testing
